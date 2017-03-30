@@ -1,1 +1,0 @@
-## The Mute Style Guide
