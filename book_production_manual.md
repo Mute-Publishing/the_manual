@@ -11,5 +11,7 @@ This can be done in two ways;
 * Scibus, 
 * Vivliostyle browser layout
 
+1. Download a PDF cover template guide from Lightning Source, see https://myaccount.lightningsource.com/Tools/CoverTemplateGenerator
+
 
 
