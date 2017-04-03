@@ -13,4 +13,21 @@ Install fonts. Once you have dowloaded the repository you will find these fonts 
 
 Note: cover items are in layers, so you need to be on the right layer to edit
 
+### Book Block .docx to .html
+
+Install pandoc software http://pandoc.org/
+
+Clean word processing file using Pepito Cleaner 0.1.16 plugin in LibreOffice http://pepitoweb.altervista.org/pepito_cleaner/index.php
+
+Remove all erroneous items
+
+Include all URLs and e-mail links
+
+Remove all underlines and colur formatting on links, this prevents underline being read as italic by pandoc
+
+Then run pandoc script in your docs directory: pandoc -s filename.docx -o filename.html
+
+The everything inside, but not including the body tags, can be copy pasted into your main XHTML layout doc
+
+
 
