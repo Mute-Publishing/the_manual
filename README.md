@@ -29,6 +29,10 @@ Remove all erroneous items, also make use of the navigator function to find item
 - make sure doc in correct language
 - place all links
 - use styles on headers and block quotes
+- remove unused links and bookmarks using Navigator
+- remove and replace styles using Pepito
+- Make sure block quotes and footnotes have correct styles
+- Look out for formatting errors in footnotes
 
 Include all URLs and e-mail links
 
