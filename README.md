@@ -19,11 +19,20 @@ Install pandoc software http://pandoc.org/
 
 Clean word processing file using Pepito Cleaner 0.1.16 plugin in LibreOffice http://pepitoweb.altervista.org/pepito_cleaner/index.php
 
-Remove all erroneous items
+Remove all erroneous items, also make use of the navigator function to find items;
+
+- double spaces
+- empty paras
+- spaces at end of lines
+- check style use
+- spell check
+- make sure doc in correct language
+- place all links
+- use styles on headers and block quotes
 
 Include all URLs and e-mail links
 
-Remove all underlines and colur formatting on links, this prevents underline being read as italic by pandoc
+Remove all underlines and colour formatting on links, this prevents underline being read as italic by pandoc
 
 Then run pandoc script in your docs directory: pandoc -s filename.docx -o filename.html
 
