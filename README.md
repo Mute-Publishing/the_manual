@@ -19,6 +19,8 @@ Install pandoc software http://pandoc.org/
 
 Clean word processing file using Pepito Cleaner 0.1.16 plugin in LibreOffice http://pepitoweb.altervista.org/pepito_cleaner/index.php
 
+FIRST: CHECK TRACK CHANGES HAS BEEN TURNED OFF AND ALL ACCEPTED!!!!
+
 Remove all erroneous items, also make use of the navigator function to find items;
 
 - double spaces
